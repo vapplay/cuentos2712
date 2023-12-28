@@ -127,5 +127,5 @@ const wHeight = Dimensions.get('window').height;
 
 
 // });
-
+// Commentario
 export {styles};
